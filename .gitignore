@@ -43,3 +43,5 @@ hs_err_pid*
 # application-hml.properties e application-prod.properties - Configuracoes de Homologacao e Producao
 application-hml.properties
 application-prd.properties
+application-pre.properties
+
